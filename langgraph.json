@@ -1,0 +1,6 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "graphs": {
+    "chat": "./lib/graph.ts:graph"
+  }
+}
